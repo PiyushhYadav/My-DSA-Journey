@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview!
+A collection of LeetCode problems I've solved, along with their C++ solutions.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
