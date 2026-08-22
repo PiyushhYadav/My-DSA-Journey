@@ -7,6 +7,7 @@ A collection of LeetCode problems I've solved, along with their C++ solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode problems I've solved, along with their C++ solutions.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
