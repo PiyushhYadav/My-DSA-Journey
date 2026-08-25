@@ -4,6 +4,7 @@ A collection of LeetCode problems I've solved, along with their C++ solutions.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -32,6 +33,7 @@ A collection of LeetCode problems I've solved, along with their C++ solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -44,4 +46,8 @@ A collection of LeetCode problems I've solved, along with their C++ solutions.
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
