@@ -25,6 +25,7 @@ A collection of LeetCode problems I've solved, along with their C++ solutions.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode problems I've solved, along with their C++ solutions.
 | [0042-trapping-rain-water](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -53,6 +55,7 @@ A collection of LeetCode problems I've solved, along with their C++ solutions.
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -66,4 +69,8 @@ A collection of LeetCode problems I've solved, along with their C++ solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
