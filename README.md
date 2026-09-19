@@ -8,6 +8,7 @@ A collection of LeetCode problems I've solved, along with their C++ solutions.
 | [0042-trapping-rain-water](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0239-sliding-window-maximum](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0704-binary-search) |
@@ -76,6 +77,23 @@ A collection of LeetCode problems I've solved, along with their C++ solutions.
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0567-permutation-in-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/1248-count-number-of-nice-subarrays) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
