@@ -20,7 +20,7 @@ public:
             else if(height[tail]>height[head]){
                 head--;
             }
-            else{
+            else{//dono equal h, and if equal h to dono ko kaam nai phr
                 tail++;head--;
             }
         }
