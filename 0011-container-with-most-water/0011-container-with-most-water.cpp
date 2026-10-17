@@ -17,8 +17,11 @@ public:
             if(height[tail]<height[head]){
                 tail++;//jo kam h usko badhao
             }
-            else{//height[tail]>height[head]
+            else if(height[tail]>height[head]){
                 head--;
+            }
+            else{
+                tail++;head--;
             }
         }
 
