@@ -9,3 +9,4 @@ public:
         return (i==s.length());
     }
 };
+//TC- O(n+m)
