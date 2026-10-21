@@ -40,12 +40,14 @@ A collection of LeetCode problems I've solved, along with their C++ solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0611-valid-triangle-number) |
@@ -59,6 +61,7 @@ A collection of LeetCode problems I've solved, along with their C++ solutions.
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/PiyushhYadav/My-DSA-Journey/tree/master/0567-permutation-in-string) |
 ## Greedy
